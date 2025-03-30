@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Badavath-Arjun</h1>
 <h3 align="center">"A passionate full-stack developer from India with a keen interest in Web Development and AI/ML."</h3>
+<p align="center">
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Animated GIF" width="500">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badavatharjun&label=Profile%20views&color=0e75b6&style=flat" alt="badavatharjun" /> </p>
 
